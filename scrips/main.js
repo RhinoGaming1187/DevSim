@@ -1,1 +1,1 @@
-var display = 0
+document.getElementById('Money').innerHTML = 'hello world!';
